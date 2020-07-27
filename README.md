@@ -1,6 +1,6 @@
 # RemoteControl
 A remote control for pc media streaming
-
+**This is now obsolete. Check [PCRemote](https://github.com/adryzz/PCRemote)**
 this is kinda of a fork of RemotePresentationManager btw
 Android app for controlling is coming SOON
 
