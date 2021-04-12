@@ -1,4 +1,11 @@
 # RemoteControl
+
+## This is now deprecated, please use RemoteControlV2.
+[Link](https://github.com/adryzz/RemoteControlV2)
+
+### old readme
+
+
 A remote control for pc media streaming
 **This is now obsolete. Check [PCRemote](https://github.com/adryzz/PCRemote)**
 this is kinda of a fork of RemotePresentationManager btw
